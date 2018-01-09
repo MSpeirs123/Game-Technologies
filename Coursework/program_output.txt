@@ -1,0 +1,115 @@
+[10:44:27] Loading Shader:
+[10:44:27]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechVertexBasic.glsl
+[10:44:27]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechFragSuperSample.glsl
+[10:44:27]     -> Linking Shader: Success!
+[10:44:27] 
+[10:44:27] Loading Shader:
+[10:44:27]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechVertexShadow.glsl
+[10:44:27]     -> Compiling Shader: ../../Data/Shaders/Common/EmptyFragment.glsl
+[10:44:27]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechGeomShadow.glsl
+[10:44:27]     -> Linking Shader: Success!
+[10:44:27] 
+[10:44:27] Loading Shader:
+[10:44:27]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechVertexFull.glsl
+[10:44:27]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechFragForwardRender.glsl
+[10:44:27]     -> Linking Shader: Success!
+[10:44:27] 
+[10:44:27] Loading Shader:
+[10:44:27]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/PointVertex.glsl
+[10:44:27]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/PointFragment.glsl
+[10:44:27]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/PointGeometry.glsl
+[10:44:27]     -> Linking Shader: Success!
+[10:44:27] 
+[10:44:27] Loading Shader:
+[10:44:27]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/Vertex.glsl
+[10:44:27]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/Fragment.glsl
+[10:44:27]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/LineGeometry.glsl
+[10:44:27]     -> Linking Shader: Success!
+[10:44:27] 
+[10:44:27] Loading Shader:
+[10:44:27]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/VertexColOnly.glsl
+[10:44:27]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/Fragment.glsl
+[10:44:27]     -> Linking Shader: Success!
+[10:44:27] 
+[10:44:27] Loading Shader:
+[10:44:27]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/TextVertex.glsl
+[10:44:27]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/TextFragment.glsl
+[10:44:27]     -> Compiling Shader: ../../Data/Shaders/DebugShaders/TextGeometry.glsl
+[10:44:27]     -> Linking Shader: Success!
+[10:44:27] 
+[10:44:27] Loading Shader:
+[10:44:27]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechVertexPicker.glsl
+[10:44:27]     -> Compiling Shader: ../../Data/Shaders/SceneRenderer/TechFragScreenPicker_nsightfix.glsl
+[10:44:27]     -> Linking Shader: Success!
+[10:44:27] 
+[10:44:27] Loading Mesh: ../../Data/Meshes/cube.obj
+[10:44:27] 
+[10:44:27] Loading Mesh: ../../Data/Meshes/sphere.obj
+[10:44:28] 
+[10:44:28] [SceneManager] - Enqueued scene: "Physics Tut #7 - Global Solver"
+[10:44:28] 
+[10:44:28] [SceneManager] - Scene switched to: "Physics Tut #7 - Global Solver"
+[10:44:28] [SceneManager] - Enqueued scene: "Soft body with spring constraint"
+[10:44:28] [SceneManager] - Enqueued scene: "Score"
+[10:44:28] [SceneManager] - Enqueued scene: "Cuda Collision"
+[10:44:35] Physics too slow to run in real time!
+[10:44:48] [SceneManager] - Exiting scene -
+[10:44:48] 
+[10:44:48] [SceneManager] - Scene switched to: "Soft body with spring constraint"
+[10:44:48] Physics too slow to run in real time!
+[10:45:06] Physics too slow to run in real time!
+[10:45:28] [SceneManager] - Exiting scene -
+[10:45:28] 
+[10:45:28] [SceneManager] - Scene switched to: "Score"
+[10:45:36] Bad hit!
+[10:45:36] Current Score: -50
+[10:45:36] Bad hit!
+[10:45:36] Current Score: -100
+[10:45:36] Bad hit!
+[10:45:36] Current Score: -150
+[10:45:36] Bad hit!
+[10:45:36] Current Score: -200
+[10:45:39] Good hit!
+[10:45:39] Current Score: -100
+[10:45:39] Good hit!
+[10:45:39] Current Score: 0
+[10:45:39] Good hit!
+[10:45:39] Current Score: 100
+[10:45:39] Good hit!
+[10:45:39] Current Score: 200
+[10:45:41] Good hit!
+[10:45:41] Current Score: 300
+[10:45:41] Good hit!
+[10:45:41] Current Score: 400
+[10:45:41] Good hit!
+[10:45:41] Current Score: 500
+[10:45:41] Good hit!
+[10:45:41] Current Score: 600
+[10:45:43] Bad hit!
+[10:45:43] Current Score: 550
+[10:45:43] Bad hit!
+[10:45:43] Current Score: 500
+[10:45:43] Bad hit!
+[10:45:43] Current Score: 450
+[10:45:43] Bad hit!
+[10:45:43] Current Score: 400
+[10:45:44] [SceneManager] - Exiting scene -
+[10:45:44] 
+[10:45:45] Loading Shader:
+[10:45:45]     -> Compiling Shader: ../../Data/Shaders/Particles/ParticleShadowVertex.glsl
+[10:45:45]     -> Compiling Shader: ../../Data/Shaders/Particles/ParticleShadowFragment.glsl
+[10:45:45]     -> Compiling Shader: ../../Data/Shaders/Particles/ParticleShadowGeometry.glsl
+[10:45:45]     -> Linking Shader: Success!
+[10:45:45] 
+[10:45:45] Loading Shader:
+[10:45:45]     -> Compiling Shader: ../../Data/Shaders/Particles/ParticleLightVertex.glsl
+[10:45:45]     -> Compiling Shader: ../../Data/Shaders/Particles/ParticleLightFragment.glsl
+[10:45:45]     -> Compiling Shader: ../../Data/Shaders/Particles/ParticleLightGeometry.glsl
+[10:45:45]     -> Linking Shader: Success!
+[10:45:45] 
+[10:45:45] [SceneManager] - Scene switched to: "Cuda Collision"
+[10:45:45] Physics too slow to run in real time!
+[10:46:02] [SceneManager] - Exiting scene -
+[10:46:02] 
+[10:46:02] [SceneManager] - Scene switched to: "Physics Tut #7 - Global Solver"
+[10:46:04] [SceneManager] Closing scene manager
